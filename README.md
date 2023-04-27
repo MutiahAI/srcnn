@@ -10,7 +10,7 @@ This is an implementation of the SRCNN algorithm introduced by Dong et al. I hav
 
 - The model directory contains the pre-trained model which is trained on a single color channel, and hence expects this as an input.
 - The srcnn.py is the main file where the network is initialized and tested on an image supplied in the "image" directory.
-- The output directory contains the results obtained.
+- The results directory contains the results obtained.
 
 ##To run the project, you need Python 3.7 and the following dependencies:
 
